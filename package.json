@@ -4,13 +4,13 @@
   "description": "",
   "license": "MIT",
   "author": "",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "next dev"
   },
   "dependencies": {
-    "next": "^9.3.3",
+    "next": "^16.2.6",
     "react": "^19.2.5",
     "react-dom": "^19.2.5"
   }
